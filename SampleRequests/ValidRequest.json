@@ -1,0 +1,7 @@
+{
+  "query": "*",
+  "filter": "Country eq 'UK'",
+  "select": [ "CustomerID", "ContactName", "City", "Country" ],
+  "orderBy": "City asc",
+  "facets": [ "" ]
+}

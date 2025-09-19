@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\vivektoro\\Azure_AI_Search\\",
+  "WorkspaceRootPath": "C:\\repos\\Azure_Ai_Search\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\samplerequests\\validrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\samplerequests\\validrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:samplerequests\\validrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\azure_ai_search.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\azure_ai_search.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:azure_ai_search.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\samplerequests\\errorrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\samplerequests\\errorrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:samplerequests\\errorrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\vivektoro\\azure_ai_search\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|c:\\repos\\azure_ai_search\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38C87693-6D8F-4750-A49E-06671EA3C366}|Azure_Ai_Search.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,48 +85,55 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Azure_Ai_Search.csproj",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\Azure_Ai_Search.csproj",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\Azure_Ai_Search.csproj",
               "RelativeDocumentMoniker": "Azure_Ai_Search.csproj",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\Azure_Ai_Search.csproj",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\Azure_Ai_Search.csproj",
               "RelativeToolTip": "Azure_Ai_Search.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-17T07:13:23.458Z"
+              "WhenOpened": "2025-09-17T07:13:23.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ValidRequest.json",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\SampleRequests\\ValidRequest.json",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\SampleRequests\\ValidRequest.json",
               "RelativeDocumentMoniker": "SampleRequests\\ValidRequest.json",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\SampleRequests\\ValidRequest.json",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\SampleRequests\\ValidRequest.json",
               "RelativeToolTip": "SampleRequests\\ValidRequest.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T06:31:35.694Z"
+              "WhenOpened": "2025-09-17T06:31:35.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "SearchRequest.cs",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\SearchRequest.cs",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\SearchRequest.cs",
               "RelativeDocumentMoniker": "SearchRequest.cs",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\SearchRequest.cs",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\SearchRequest.cs",
               "RelativeToolTip": "SearchRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T05:52:50.698Z"
+              "WhenOpened": "2025-09-17T05:52:50.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +143,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SearchController.cs",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\Controllers\\SearchController.cs",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\Controllers\\SearchController.cs",
               "RelativeToolTip": "Controllers\\SearchController.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAMwDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,21 +156,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\appsettings.json",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\appsettings.json",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T04:22:52.812Z"
+              "WhenOpened": "2025-09-17T04:22:52.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ErrorRequest.json",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\SampleRequests\\ErrorRequest.json",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\SampleRequests\\ErrorRequest.json",
               "RelativeDocumentMoniker": "SampleRequests\\ErrorRequest.json",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\SampleRequests\\ErrorRequest.json",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\SampleRequests\\ErrorRequest.json",
               "RelativeToolTip": "SampleRequests\\ErrorRequest.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -173,17 +181,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repos\\vivektoro\\Azure_AI_Search\\Program.cs",
+              "DocumentMoniker": "C:\\repos\\Azure_Ai_Search\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\repos\\vivektoro\\Azure_AI_Search\\Program.cs",
+              "ToolTip": "C:\\repos\\Azure_Ai_Search\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T04:22:05.162Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
