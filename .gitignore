@@ -56,3 +56,10 @@ nunit-*.xml
 /.vs/Azure_AI_Search/FileContentIndex
 *.sqlite
 /.vs/VSWorkspaceState.json
+/.vs/Azure_AI_Search/v17/.wsuo
+/.vs/Azure_AI_Search/v17/DocumentLayout.backup.json
+/.vs/Azure_AI_Search/v17/DocumentLayout.json
+/.vs/ProjectEvaluation/azure_ai_search.metadata.v9.bin
+/.vs/ProjectEvaluation/azure_ai_search.projects.v9.bin
+/.vs/ProjectEvaluation/azure_ai_search.strings.v9.bin
+/.vs/ProjectSettings.json
