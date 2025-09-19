@@ -52,3 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/Azure_AI_Search/CopilotIndices/17.14.995.13737
+/.vs/Azure_AI_Search/FileContentIndex
+*.sqlite
+/.vs/VSWorkspaceState.json
